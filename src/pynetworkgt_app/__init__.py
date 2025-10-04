@@ -1,0 +1,2 @@
+"""PyNetworkGT standalone application package."""
+
